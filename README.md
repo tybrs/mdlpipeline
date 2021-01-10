@@ -12,7 +12,7 @@ The `mdltools` subpackage contains client request abstractions dedicated to inte
 
 The `sqltools` subpackage contains a database handler abstaction and queries for retrieving enrollment data from the PowerCampus database.
 
-## scripts
+## Scripts
 
 The `scripts/` directory contains runner code for `mdlpipeline`. The `schedule_sync` module contains a daemon to syncronize enrollments every fifteen minutes.
 
@@ -78,14 +78,14 @@ export SFTP_PW  "" # OpenLMS SFTP password
 ## Running
 
 ```python
->>> from mdlpipeline.sync.enrollments import SyncEnrollments
->>> # Store mapping file in `MAPPING_JSON`
->>> with open('data/wc_pc_mapping_wi21.json', 'r') as f:
+from mdlpipeline.sync.enrollments import SyncEnrollments
+# Store mapping file in `MAPPING_JSON`
+with open('data/wc_pc_mapping_wi21.json', 'r') as f:
         MAPPING_JSON = json.load(f)
->>> # Data pull to find add/drops for webCampus's Conduit system
->>> se = asyncio.run(SyncEnrollments.pull(MAPPING_JSON))
->>> # Log Conduit file in log/ directory
->>> se.log_conduit()
->>> # Push file via SFTP
->>> se.push_conduit()
+# Data pull to find add/drops for webCampus's Conduit system
+se = asyncio.run(SyncEnrollments.pull(MAPPING_JSON))
+# Log Conduit file in log/ directory
+se.log_conduit()
+# Push file via SFTP
+se.push_conduit()
 ```
