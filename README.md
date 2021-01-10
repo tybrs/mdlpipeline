@@ -6,11 +6,11 @@ The `mdlpipeline` package contains an end-to-end ETL pipeline in the `sync.enrol
 
 **mdltools**
 
-The `mdltools` subpackage contains client request abstractions dedicated to interacting with the Moodle Web Services API.
+The `mdltools` subpackage contains client request abstractions dedicated to asynchronously interacting with the Moodle Web Services API.
 
 **sqltools**
 
-The `sqltools` subpackage contains a database handler abstaction and queries for retrieving enrollment data from the PowerCampus database.
+The `sqltools` subpackage contains a database handler abstraction and queries for retrieving enrollment data from the PowerCampus database.
 
 ## Scripts
 
