@@ -1,0 +1,883 @@
+{
+  "COUN8760COUN8761COUN8762COUN8763COUN8810COUN8815COUN8820COUN8825Winter2021": {
+  "courses": [
+    "COUN8760",
+    "COUN8761",
+    "COUN8810",
+    "COUN8815",
+    "COUN8820",
+    "COUN8825"
+  ],
+  "section": "01",
+  "id": 4888
+  },
+  "COUN6010COUN801001Winter2021":
+  {
+      "courses": [
+          "COUN6010",
+          "COUN8010"
+      ],
+      "section": "01",
+      "id": 4753
+  },
+  "COUN6110COUN811001Winter2021":
+  {
+      "courses": [
+          "COUN6110",
+          "COUN8110"
+      ],
+      "section": "01",
+      "id": 4755
+  },
+  "COUN6110COUN811002Winter2021":
+  {
+      "courses": [
+          "COUN6110",
+          "COUN8110"
+      ],
+      "section": "02",
+      "id": 4756
+  },
+  "COUN6110COUN811003Winter2021":
+  {
+      "courses": [
+          "COUN6110",
+          "COUN8110"
+      ],
+      "section": "03",
+      "id": 4927
+  },
+  "COUN6120COUN812001Winter2021":
+  {
+      "courses": [
+          "COUN6120",
+          "COUN8120"
+      ],
+      "section": "01",
+      "id": 4757
+  },
+  "COUN6120COUN812002Winter2021":
+  {
+      "courses": [
+          "COUN6120",
+          "COUN8120"
+      ],
+      "section": "02",
+      "id": 4758
+  },
+  "COUN6130COUN813001Winter2021":
+  {
+      "courses": [
+          "COUN6130",
+          "COUN8130"
+      ],
+      "section": "01",
+      "id": 4759
+  },
+  "COUN6550COUN720501Winter2021":
+  {
+      "courses": [
+          "COUN6550",
+          "COUN7205"
+      ],
+      "section": "01",
+      "id": 4859
+  },
+  "COUN6550COUN720502Winter2021":
+  {
+      "courses": [
+          "COUN6550",
+          "COUN7205"
+      ],
+      "section": "02",
+      "id": 4861
+  },
+  "COUN6552COUN855201Winter2021":
+  {
+      "courses": [
+          "COUN6552",
+          "COUN8552"
+      ],
+      "section": "01",
+      "id": 4765
+  },
+  "COUN6552COUN855202Winter2021":
+  {
+      "courses": [
+          "COUN6552",
+          "COUN8552"
+      ],
+      "section": "02",
+      "id": 4766
+  },
+  "MSE8222Winter2021": {
+    "courses": [
+      "MSE8222"
+    ],
+    "id": 4952
+  },
+  "MSE8322Winter2021": {
+    "courses": [
+      "MSE8322"
+    ],
+    "id": 4953
+  },
+  "HBI4304Winter2021": {
+    "courses": [
+      "HBI4304"
+    ],
+    "id": 4951 
+  },
+    "BSC5102Winter2021": {
+      "courses": [
+        "BSC5102"
+      ],
+      "id": 4748
+    },
+    "BSC5103Winter2021": {
+      "courses": [
+        "BSC5103"
+      ],
+      "id": 4921
+    },
+    "BSC5114Winter2021": {
+      "courses": [
+        "BSC5114"
+      ],
+      "id": 4909
+    },
+    "BSC5116Winter2021": {
+      "courses": [
+        "BSC5116"
+      ],
+      "id": 4925
+    },
+    "BSC5203Winter2021": {
+      "courses": [
+        "BSC5203"
+      ],
+      "id": 4747
+    },
+    "BSC5215Winter2021": {
+      "courses": [
+        "BSC5215"
+      ],
+      "id": 4817
+    },
+    "BSC5217Winter2021": {
+      "courses": [
+        "BSC5217"
+      ],
+      "id": 4773
+    },
+    "BSC6203Winter2021": {
+      "courses": [
+        "BSC6203"
+      ],
+      "id": 4910
+    },
+    "BSC6213Winter2021": {
+      "courses": [
+        "BSC6213"
+      ],
+      "id": 4819
+    },
+    "BSC6219Winter2021": {
+      "courses": [
+        "BSC6219"
+      ],
+      "id": 4902
+    },
+    "CED5205Winter2021": {
+      "courses": [
+        "CED5205"
+      ],
+      "id": 4823
+    },
+    "CED6245Winter2021": {
+      "courses": [
+        "CED6245"
+      ],
+      "id": 4865
+    },
+    "CED6250Winter2021": {
+      "courses": [
+        "CED6250"
+      ],
+      "id": 4855
+    },
+    "CED6251Winter2021": {
+      "courses": [
+        "CED6251"
+      ],
+      "id": 4853
+    },
+    "CED6345Winter2021": {
+      "courses": [
+        "CED6345"
+      ],
+      "id": 4780
+    },
+    "CED6346Winter2021": {
+      "courses": [
+        "CED6346"
+      ],
+      "id": 4781
+    },
+    "CED6370Winter2021": {
+      "courses": [
+        "CED6370"
+      ],
+      "id": 4782
+    },
+    "CED7351Winter2021": {
+      "courses": [
+        "CED7351"
+      ],
+      "id": 4889
+    },
+    "CED7352Winter2021": {
+      "courses": [
+        "CED7352"
+      ],
+      "id": 4866
+    },
+    "CHR5122Winter2021": {
+      "courses": [
+        "CHR5122"
+      ],
+      "id": 4775
+    },
+    "CHR5126Winter2021": {
+      "courses": [
+        "CHR5126"
+      ],
+      "id": 4891
+    },
+    "CHR5137Winter2021": {
+      "courses": [
+        "CHR5137"
+      ],
+      "id": 4922
+    },
+    "CHR5223Winter2021": {
+      "courses": [
+        "CHR5223"
+      ],
+      "id": 4774
+    },
+    "CHR5227Winter2021": {
+      "courses": [
+        "CHR5227"
+      ],
+      "id": 4779
+    },
+    "CHR5231Winter2021": {
+      "courses": [
+        "CHR5231"
+      ],
+      "id": 4920
+    },
+    "CHR6225Winter2021": {
+      "courses": [
+        "CHR6225"
+      ],
+      "id": 4895
+    },
+    "CHR6226Winter2021": {
+      "courses": [
+        "CHR6226"
+      ],
+      "id": 4879
+    },
+    "CHR6228Winter2021": {
+      "courses": [
+        "CHR6228"
+      ],
+      "id": 4896
+    },
+    "CHR6235Winter2021": {
+      "courses": [
+        "CHR6235"
+      ],
+      "id": 4923
+    },
+    "CHR6326Winter2021": {
+      "courses": [
+        "CHR6326"
+      ],
+      "id": 4813
+    },
+    "CHR6327Winter2021": {
+      "courses": [
+        "CHR6327"
+      ],
+      "id": 4786
+    },
+    "CHR6332Winter2021": {
+      "courses": [
+        "CHR6332"
+      ],
+      "id": 4816
+    },
+    "CHR6333Winter2021": {
+      "courses": [
+        "CHR6333"
+      ],
+      "id": 4784
+    },
+    "CHR6338Winter2021": {
+      "courses": [
+        "CHR6338"
+      ],
+      "id": 4814
+    },
+    "CHR6341Winter2021": {
+      "courses": [
+        "CHR6341"
+      ],
+      "id": 4785
+    },
+    "CHR6342Winter2021": {
+      "courses": [
+        "CHR6342"
+      ],
+      "id": 4815
+    },
+    "CHR6343Winter2021": {
+      "courses": [
+        "CHR6343"
+      ],
+      "id": 4787
+    },
+    "CHR7330Winter2021": {
+      "courses": [
+        "CHR7330"
+      ],
+      "id": 4874
+    },
+    "CHR7331Winter2021": {
+      "courses": [
+        "CHR7331"
+      ],
+      "id": 4875
+    },
+    "CHR8127Winter2021": {
+      "courses": [
+        "CHR8127"
+      ],
+      "id": 4899
+    },
+    "CHR8140Winter2021": {
+      "courses": [
+        "CHR8140"
+      ],
+      "id": 4901
+    },
+    "CHR8226Winter2021": {
+      "courses": [
+        "CHR8226"
+      ],
+      "id": 4877
+    },
+    "CHR8231Winter2021": {
+      "courses": [
+        "CHR8231"
+      ],
+      "id": 4878
+    },
+    "CHR8241Winter2021": {
+      "courses": [
+        "CHR8241"
+      ],
+      "id": 4892
+    },
+    "CLI7210Winter2021": {
+      "courses": [
+        "CLI7210"
+      ],
+      "id": 4924
+    },
+    "CLI7307Winter2021": {
+      "courses": [
+        "CLI7307"
+      ],
+      "id": 4827
+    },
+    "CLI8159Winter2021": {
+      "courses": [
+        "CLI8159"
+      ],
+      "id": 4828
+    },
+    "CLI8262Winter2021": {
+      "courses": [
+        "CLI8262"
+      ],
+      "id": 4829
+    },
+    "CLI8362Winter2021": {
+      "courses": [
+        "CLI8362"
+      ],
+      "id": 4830
+    },
+    "COUN6135COUN8135Winter2021": {
+      "courses": [
+        "COUN6135",
+        "COUN8135"
+      ],
+      "id": 4761
+    },
+    "COUN6150COUN8150Winter2021": {
+      "courses": [
+        "COUN6150",
+        "COUN8150"
+      ],
+      "id": 4762
+    },
+    "COUN6210COUN7410Winter2021": {
+      "courses": [
+        "COUN6210",
+        "COUN7410"
+      ],
+      "id": 4831
+    },
+    "COUN6215COUN7415Winter2021": {
+      "courses": [
+        "COUN6215",
+        "COUN7415"
+      ],
+      "id": 4832
+    },
+    "COUN6225COUN7440Winter2021": {
+      "courses": [
+        "COUN6225",
+        "COUN7440"
+      ],
+      "id": 4833
+    },
+    "COUN6230COUN7445Winter2021": {
+      "courses": [
+        "COUN6230",
+        "COUN7445"
+      ],
+      "id": 4834
+    },
+    "COUN6245COUN7245Winter2021": {
+      "courses": [
+        "COUN6245",
+        "COUN7245"
+      ],
+      "id": 4835
+    },
+    "COUN6315Winter2021": {
+      "courses": [
+        "COUN6315"
+      ],
+      "id": 4763
+    },
+    "COUN6410Winter2021": {
+      "courses": [
+        "COUN6410"
+      ],
+      "id": 4764
+    },
+    "COUN6555COUN8555Winter2021": {
+      "courses": [
+        "COUN6555",
+        "COUN8555"
+      ],
+      "id": 4767
+    },
+    "COUN6610COUN7610Winter2021": {
+      "courses": [
+        "COUN6610",
+        "COUN7610"
+      ],
+      "id": 4768
+    },
+    "COUN6830Winter2021": {
+      "courses": [
+        "COUN6830"
+      ],
+      "id": 4769
+    },
+    "COUN7511Winter2021": {
+      "courses": [
+        "COUN7511"
+      ],
+      "id": 4840
+    },
+    "COUN8215Winter2021": {
+      "courses": [
+        "COUN8215"
+      ],
+      "id": 4937
+    },
+    "COUN8430COUN8455COUN8880Winter2021": {
+      "courses": [
+        "COUN8430",
+        "COUN8455",
+        "COUN8880"
+      ],
+      "id": 4935
+    },
+    "COUN8465COUN8885Winter2021": {
+      "courses": [
+        "COUN8465",
+        "COUN8885"
+      ],
+      "id": 4936
+    },
+    "COUN8522Winter2021": {
+      "courses": [
+        "COUN8522"
+      ],
+      "id": 4841
+    },
+    "COUN8755COUN8425COUN8870Winter2021": {
+      "courses": [
+        "COUN8755",
+        "COUN8425",
+        "COUN8870",
+        "COUN8810"
+      ],
+      "id": 4842
+    },
+    "CSC5183Winter2021": {
+      "courses": [
+        "CSC5183"
+      ],
+      "id": 4914
+    },
+    "CSC5244Winter2021": {
+      "courses": [
+        "CSC5244"
+      ],
+      "id": 4751
+    },
+    "CSC5284Winter2021": {
+      "courses": [
+        "CSC5284"
+      ],
+      "id": 4783
+    },
+    "CSC6275Winter2021": {
+      "courses": [
+        "CSC6275"
+      ],
+      "id": 4867
+    },
+    "CSC6279Winter2021": {
+      "courses": [
+        "CSC6279"
+      ],
+      "id": 4776
+    },
+    "CSC6281Winter2021": {
+      "courses": [
+        "CSC6281"
+      ],
+      "id": 4777
+    },
+    "CSC6367Winter2021": {
+      "courses": [
+        "CSC6367"
+      ],
+      "id": 4733
+    },
+    "CSC7289Winter2021": {
+      "courses": [
+        "CSC7289"
+      ],
+      "id": 4856
+    },
+    "CSC7293Winter2021": {
+      "courses": [
+        "CSC7293"
+      ],
+      "id": 4915
+    },
+    "CSC7324Winter2021": {
+      "courses": [
+        "CSC7324"
+      ],
+      "id": 4919
+    },
+    "CSC7366Winter2021": {
+      "courses": [
+        "CSC7366"
+      ],
+      "id": 4890
+    },
+    "CSC7367Winter2021": {
+      "courses": [
+        "CSC7367"
+      ],
+      "id": 4868
+    },
+    "CSC7372Winter2021": {
+      "courses": [
+        "CSC7372"
+      ],
+      "id": 4869
+    },
+    "CSC7375Winter2021": {
+      "courses": [
+        "CSC7375"
+      ],
+      "id": 4908
+    },
+    "CSC7377Winter2021": {
+      "courses": [
+        "CSC7377"
+      ],
+      "id": 4825
+    },
+    "CSC7394Winter2021": {
+      "courses": [
+        "CSC7394"
+      ],
+      "id": 4857
+    },
+    "CSC8155Winter2021": {
+      "courses": [
+        "CSC8155"
+      ],
+      "id": 4870
+    },
+    "CSC8167Winter2021": {
+      "courses": [
+        "CSC8167"
+      ],
+      "id": 4873
+    },
+    "CSC8168Winter2021": {
+      "courses": [
+        "CSC8168"
+      ],
+      "id": 4750
+    },
+    "CSC8171Winter2021": {
+      "courses": [
+        "CSC8171"
+      ],
+      "id": 4826
+    },
+    "CSC8173Winter2021": {
+      "courses": [
+        "CSC8173"
+      ],
+      "id": 4871
+    },
+    "CSC8178Winter2021": {
+      "courses": [
+        "CSC8178"
+      ],
+      "id": 4872
+    },
+    "CSC8181CSC8281Winter2021": {
+      "courses": [
+        "CSC8181",
+        "CSC8281"
+      ],
+      "id": 4818
+    },
+    "CSC8199Winter2021": {
+      "courses": [
+        "CSC8199"
+      ],
+      "id": 4918
+    },
+    "CSC8266Winter2021": {
+      "courses": [
+        "CSC8266"
+      ],
+      "id": 4940
+    },
+    "CSC8267Winter2021": {
+      "courses": [
+        "CSC8267"
+      ],
+      "id": 4876
+    },
+    "CSC8268Winter2021": {
+      "courses": [
+        "CSC8268"
+      ],
+      "id": 4824
+    },
+    "CSC8272Winter2021": {
+      "courses": [
+        "CSC8272"
+      ],
+      "id": 4894
+    },
+    "CSC8295Winter2021": {
+      "courses": [
+        "CSC8295"
+      ],
+      "id": 4858
+    },
+    "LEAD6335LEAD7140Winter2021": {
+      "courses": [
+        "LEAD6335",
+        "LEAD7140"
+      ],
+      "id": 4846
+    },
+    "LEAD6350LEAD8485Winter2021": {
+      "courses": [
+        "LEAD6350",
+        "LEAD8485"
+      ],
+      "id": 4847
+    },
+    "LEAD6520LEAD7330Winter2021": {
+      "courses": [
+        "LEAD6520",
+        "LEAD7330"
+      ],
+      "id": 4848
+    },
+    "MSE6500MSE8500Winter2021": {
+      "courses": [
+        "MSE6500",
+        "MSE8500"
+      ],
+      "id": 4849
+    },
+    "MSE7151Winter2021": {
+      "courses": [
+        "MSE7151"
+      ],
+      "id": 4880
+    },
+    "MSE7311Winter2021": {
+      "courses": [
+        "MSE7311"
+      ],
+      "id": 4881
+    },
+    "MSE7321Winter2021": {
+      "courses": [
+        "MSE7321"
+      ],
+      "id": 4882
+    },
+    "MSE7332Winter2021": {
+      "courses": [
+        "MSE7332"
+      ],
+      "id": 4883
+    },
+    "MSE8111Winter2021": {
+      "courses": [
+        "MSE8111"
+      ],
+      "id": 4884
+    },
+    "MSE8122Winter2021": {
+      "courses": [
+        "MSE8122"
+      ],
+      "id": 4885
+    },
+    "MSE8312Winter2021": {
+      "courses": [
+        "MSE8312"
+      ],
+      "id": 4886
+    },
+    "MSN6101Winter2021": {
+      "courses": [
+        "MSN6101"
+      ],
+      "id": 4736
+    },
+    "MSN6300Winter2021": {
+      "courses": [
+        "MSN6300"
+      ],
+      "id": 4737
+    },
+    "MSN6302Winter2021": {
+      "courses": [
+        "MSN6302"
+      ],
+      "id": 4738
+    },
+    "MSN6305Winter2021": {
+      "courses": [
+        "MSN6305"
+      ],
+      "id": 4739
+    },
+    "MSN7106Winter2021": {
+      "courses": [
+        "MSN7106"
+      ],
+      "id": 4740
+    },
+    "MSN7115Winter2021": {
+      "courses": [
+        "MSN7115"
+      ],
+      "id": 4741
+    },
+    "MSN7207Winter2021": {
+      "courses": [
+        "MSN7207"
+      ],
+      "id": 4742
+    },
+    "MSN7305Winter2021": {
+      "courses": [
+        "MSN7305"
+      ],
+      "id": 4743
+    },
+    "MSN8126Winter2021": {
+      "courses": [
+        "MSN8126"
+      ],
+      "id": 4744
+    },
+    "MSN8127Winter2021": {
+      "courses": [
+        "MSN8127"
+      ],
+      "id": 4745
+    },
+    "MSN8132Winter2021": {
+      "courses": [
+        "MSN8132"
+      ],
+      "id": 4746
+    },
+    "SPP7570Winter2021": {
+      "courses": [
+        "SPP7570"
+      ],
+      "id": 4850
+    },
+    "SPP8115Winter2021": {
+      "courses": [
+        "SPP8115"
+      ],
+      "id": 4851
+    },
+    "SPP8150Winter2021": {
+      "courses": [
+        "SPP8150"
+      ],
+      "id": 4852
+    },
+    "UBCH250Winter2021": {
+      "courses": [
+        "UBCH250"
+      ],
+      "id": 4938
+    }
+  }
