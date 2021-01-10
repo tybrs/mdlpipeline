@@ -1,6 +1,6 @@
 # Package
 
-The `mdlpipeline` package contains an end-to-end ETL pipeline in the `sync.enrollments.SyncEnrollments` class for syncronizing enrollments in Moodle (LMS) to match PowerCampus (SIS) for configured courses.
+The `mdlpipeline` package contains an end-to-end ETL pipeline in the `sync.enrollments.SyncEnrollments` class for syncronizing enrollments in Moodle (LMS) to match PowerCampus (SIS).
 
 ## Utils Subpackages
 
