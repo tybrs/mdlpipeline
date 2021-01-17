@@ -53,6 +53,11 @@ class MdlWebServicesClient():
                 self.rest_api_parameters(item, prefix.format(key), out_dict)
         return out_dict
 
+    def validate_response(self, response):
+        if isinstance(response, dict):
+            if response.get('exception'):
+                raise ValueError(response.get('exception'))
+
     async def fetch(self, session, value):
         """Make single POST request to Moodle Web Services API
         within asynchronous ClientSession.
@@ -64,7 +69,7 @@ class MdlWebServicesClient():
             response = await session.post(url=URL+ENDPOINT, data=parameters)
             response.raise_for_status()
             response_json = await response.json()
-            # validate json
+            self.validate_response(response_json)
             return {self.param_key: value,
                     'results': response_json}
         except HTTPError as http_err:
@@ -85,7 +90,7 @@ class MdlWebServicesClient():
             responses = await asyncio.gather(*tasks)
 
         return {response[self.param_key]: response['results']
-                for response in responses}
+                for response in responses if response}
 
 class WebCampusRosters(MdlWebServicesClient):
 	"""Class to make asyncronous calls to Moodle Web Service

@@ -44,6 +44,7 @@ class SyncEnrollments():
         self.mapping = mapping
         self.courseids = [self.mapping[course]["id"] for course in self.mapping]
         self.sync_audits = True
+        self.wc_pull_errors = []
         self.wc_rosters = {}
         self.pc_rosters = {}
         self.conduit_dfs = {}
@@ -89,6 +90,7 @@ class SyncEnrollments():
         """
         wcr = WebCampusRosters(self.courseids)
         rosters = await wcr.get_rosters()
+        self.wc_pull_errors = wcr.errors
         return rosters
 
     def get_courses(self):
@@ -165,7 +167,11 @@ class SyncEnrollments():
             pandas.DataFrame: Containing add/drop records to submit to conduit
         """
         records = []
-        for course in self.mapping:
+
+        # Skip courses that have revieved error durring pull
+        courses = [course for course in self.mapping
+                   if self.mapping[course]["id"] not in self.wc_pull_errors]
+        for course in courses:
             pc_roster = self.__combine_pc_course_rosters(course, role)
             wc_roster = self.wc_rosters[self.mapping[course]["id"]][role]
 
